@@ -1,8 +1,6 @@
 # Simon Game
 
-Simon game, here in Brazil we call this thing genius. 
-
-I spend a lot of time "testing" this web program.
+Simon game, conhecido como Genius game, uma página simples que usa javascript pra controlar o DOM.
 
 ## Github Page:
 > https://cytsuda.github.io/simongame/
